@@ -1,0 +1,14 @@
+X: SDL Initialized
+X: SDL Video Mode Set
+X: Loading Surface: ./gfx/tilesets/tiles.png
+X: Loading Surface: ./gfx/tilesets/overlays.png
+X: Loading Surface: ./gfx/tilesets/patharrows.png
+X: Loading Surface: ./gfx/tilesets/hills.png
+X: Loading Surface: ./gfx/tilesets/mountains.png
+X: Loading Surface: ./gfx/tilesets/trees.png
+X: Loading Surface: ./gfx/tilesets/rivers.png
+X: Loading Surface: ./gfx/tilesets/rivermouths.png
+X: Game state switched to 1
+X: Loading Surface: ./gfx/tilesets/grid.png
+X: Loading Surface: ./gfx/tilesets/coast.png
+X: Game Closing - Tidying
